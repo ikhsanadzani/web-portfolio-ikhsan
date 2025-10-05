@@ -1,0 +1,29 @@
+
+
+Catatan penting 
+A. buat ngehapus database yang telah di buat; 
+
+Step by step: 
+- SHOW DATABASES;
+- DROP DATABASE (nama database kalian) 
+
+
+
+1. MEMBUAT DATABASE PERTAMA
+CREATE DATABASE nama data base kalian
+DEFAULT CHARACTER SET utf8mb4
+COLLATE utf8mb4_general_ci;
+
+
+menambah anggota di table (anggota)
+
+INSERT INTO anggota (nama, alamat) VALUES
+('Mas Moch', 'Jl. Onta No. 5'),
+('Mbappe', 'Jl. Kijang No. 12');
+
+INSERT INTO peminjaman (id_anggota, id_buku, tanggal_pinjam) VALUES
+ (3, 1, '2025-02-01'),
+ (4, 5, '2025-02-02');
+ 
+ 
+

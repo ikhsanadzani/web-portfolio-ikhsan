@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bantuan WinRAR
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\WinRAR\\\\Bantuan WinRAR.lnk"
+Type=Application
+StartupNotify=true
+Comment=Proses RAR, ZIP and format arsip lainnya
+Path=/home/whybukos/Desktop
+Icon=0A01_WinRAR.0
+StartupWMClass=winrar.chm

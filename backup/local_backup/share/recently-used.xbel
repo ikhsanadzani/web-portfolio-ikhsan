@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/whybukos/Documents/sss" added="2025-09-17T12:17:01.754544Z" modified="2025-09-17T12:17:01.754568Z" visited="2025-09-17T12:17:01.754548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-17T12:17:01.754555Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-26-10.png" added="2025-09-17T12:26:10.370896Z" modified="2025-09-17T12:26:10.370900Z" visited="2025-09-17T12:26:10.370897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:26:10.370897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-26-22.png" added="2025-09-17T12:26:22.821401Z" modified="2025-09-17T12:26:22.821404Z" visited="2025-09-17T12:26:22.821401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:26:22.821402Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-28-37.png" added="2025-09-17T12:28:37.550313Z" modified="2025-09-17T12:28:37.550318Z" visited="2025-09-17T12:28:37.550314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:28:37.550314Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-29-28.png" added="2025-09-17T12:29:28.584007Z" modified="2025-09-17T12:29:28.584011Z" visited="2025-09-17T12:29:28.584008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:29:28.584009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-30-47.png" added="2025-09-17T12:30:47.394305Z" modified="2025-09-17T12:30:47.394310Z" visited="2025-09-17T12:30:47.394306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:30:47.394306Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-31-06.png" added="2025-09-17T12:31:06.590559Z" modified="2025-09-17T12:31:06.590564Z" visited="2025-09-17T12:31:06.590560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:31:06.590560Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/bikin%20akun%20github" added="2025-09-17T12:36:30.875475Z" modified="2025-09-17T12:36:30.875480Z" visited="2025-09-17T12:36:30.875476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-17T12:36:30.875477Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/integrasi%20ssh" added="2025-09-17T12:37:06.434604Z" modified="2025-09-17T12:37:06.434623Z" visited="2025-09-17T12:37:06.434606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-17T12:37:06.434611Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-38-06.png" added="2025-09-17T12:38:06.556241Z" modified="2025-09-17T12:38:06.556247Z" visited="2025-09-17T12:38:06.556242Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:38:06.556242Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-38-18.png" added="2025-09-17T12:38:18.838504Z" modified="2025-09-17T12:38:18.838507Z" visited="2025-09-17T12:38:18.838505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:38:18.838505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-39-44.png" added="2025-09-17T12:39:44.265438Z" modified="2025-09-17T12:39:44.265442Z" visited="2025-09-17T12:39:44.265438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:39:44.265439Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-40-25.png" added="2025-09-17T12:40:25.062875Z" modified="2025-09-17T12:40:25.062879Z" visited="2025-09-17T12:40:25.062876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:40:25.062876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-42-18.png" added="2025-09-17T12:42:18.565860Z" modified="2025-09-17T12:42:18.565864Z" visited="2025-09-17T12:42:18.565861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:42:18.565861Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-42-35.png" added="2025-09-17T12:42:35.008968Z" modified="2025-09-17T12:42:35.008971Z" visited="2025-09-17T12:42:35.008969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:42:35.008969Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-42-46.png" added="2025-09-17T12:42:46.448170Z" modified="2025-09-17T12:42:46.448174Z" visited="2025-09-17T12:42:46.448171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:42:46.448171Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-43-13.png" added="2025-09-17T12:43:13.752860Z" modified="2025-09-17T12:43:13.752863Z" visited="2025-09-17T12:43:13.752861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:43:13.752861Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-43-27.png" added="2025-09-17T12:43:27.607193Z" modified="2025-09-17T12:43:27.607196Z" visited="2025-09-17T12:43:27.607194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:43:27.607194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-43-39.png" added="2025-09-17T12:43:39.021463Z" modified="2025-09-17T12:43:39.021466Z" visited="2025-09-17T12:43:39.021463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:43:39.021463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-44-36.png" added="2025-09-17T12:44:36.718735Z" modified="2025-09-17T12:44:36.718739Z" visited="2025-09-17T12:44:36.718736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:44:36.718736Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-45-26.png" added="2025-09-17T12:45:26.131326Z" modified="2025-09-17T12:45:26.131329Z" visited="2025-09-17T12:45:26.131326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:45:26.131326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-45-46.png" added="2025-09-17T12:45:46.173896Z" modified="2025-09-17T12:45:46.173900Z" visited="2025-09-17T12:45:46.173896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:45:46.173897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-46-23.png" added="2025-09-17T12:46:23.994851Z" modified="2025-09-17T12:46:23.994855Z" visited="2025-09-17T12:46:23.994852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:46:23.994852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-46-35.png" added="2025-09-17T12:46:35.695217Z" modified="2025-09-17T12:46:35.695220Z" visited="2025-09-17T12:46:35.695217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:46:35.695217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-46-45.png" added="2025-09-17T12:46:45.645061Z" modified="2025-09-17T12:46:45.645064Z" visited="2025-09-17T12:46:45.645062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:46:45.645062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-47-03.png" added="2025-09-17T12:47:03.153210Z" modified="2025-09-17T12:47:03.153213Z" visited="2025-09-17T12:47:03.153210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:47:03.153210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-47-43.png" added="2025-09-17T12:47:43.433927Z" modified="2025-09-17T12:47:43.433931Z" visited="2025-09-17T12:47:43.433928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:47:43.433928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-47-52.png" added="2025-09-17T12:47:52.269503Z" modified="2025-09-17T12:47:52.269508Z" visited="2025-09-17T12:47:52.269504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:47:52.269504Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-17%2019-48-05.png" added="2025-09-17T12:48:05.117167Z" modified="2025-09-17T12:48:05.117171Z" visited="2025-09-17T12:48:05.117168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-17T12:48:05.117168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/integrasi%20ssh/Screenshot%20From%202025-09-17%2019-38-06.png" added="2025-09-17T15:37:37.276705Z" modified="2025-09-17T15:37:37.986106Z" visited="2025-09-17T15:37:37.276708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-17T15:37:37.276715Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-17T15:37:37.986097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712/rar/order.htm" added="2025-09-19T06:42:37.581243Z" modified="2025-09-19T06:42:37.581251Z" visited="2025-09-19T06:42:37.581244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2025-09-19T06:42:37.581246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712/rar/rar.txt" added="2025-09-19T06:42:48.676098Z" modified="2025-09-19T06:42:48.676122Z" visited="2025-09-19T06:42:48.676101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-19T06:42:48.676112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/index.html" added="2025-09-19T07:40:55.597844Z" modified="2025-09-20T15:42:37.562617Z" visited="2025-09-19T07:40:55.597847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T15:42:37.562605Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712%20(1)/rar/makefile" added="2025-09-20T10:50:14.646138Z" modified="2025-09-20T10:50:14.646154Z" visited="2025-09-20T10:50:14.646139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2025-09-20T10:50:14.646144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712%20(1)/rar/rar.txt" added="2025-09-20T10:50:21.949029Z" modified="2025-09-20T10:58:33.714274Z" visited="2025-09-20T10:50:21.949031Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-20T10:58:33.714251Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712%20(1)/rar/rarfiles.lst" added="2025-09-20T10:50:38.792101Z" modified="2025-09-20T10:50:38.792121Z" visited="2025-09-20T10:50:38.792103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-20T10:50:38.792111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712%20(1)/rar/rar" added="2025-09-20T10:52:00.298565Z" modified="2025-09-20T10:52:00.298589Z" visited="2025-09-20T10:52:00.298567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Decibels %U&apos;" modified="2025-09-20T10:52:00.298576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/7z2501-linux-x64/MANUAL/cmdline/commands/extract.htm" added="2025-09-20T10:57:32.554287Z" modified="2025-09-20T10:57:32.554305Z" visited="2025-09-20T10:57:32.554288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/google-chrome-stable %U&apos;" modified="2025-09-20T10:57:32.554299Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/rarlinux-x64-712%20(1)/rar/readme.txt" added="2025-09-20T10:58:21.287453Z" modified="2025-09-20T10:58:21.287480Z" visited="2025-09-20T10:58:21.287457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-20T10:58:21.287467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/sweethome3D75_instllr.rar" added="2025-09-20T11:02:51.855693Z" modified="2025-09-20T11:25:33.047451Z" visited="2025-09-20T11:02:51.855694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="xarchiver" exec="&apos;xarchiver %u&apos;" modified="2025-09-20T11:02:51.855696Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env &quot;WINEPREFIX=/home/whybukos/.wine&quot; wine start /ProgIDOpen &quot;WinRAR&quot; %f&apos;" modified="2025-09-20T11:25:33.047407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-01-37.png" added="2025-09-20T13:01:37.757959Z" modified="2025-09-21T08:06:27.014148Z" visited="2025-09-20T13:01:37.757963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:01:37.757963Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T13:55:32.767841Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-21T08:06:26.551755Z" count="2"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T08:06:27.014146Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-09-02.png" added="2025-09-20T13:09:02.217344Z" modified="2025-09-20T13:09:02.217347Z" visited="2025-09-20T13:09:02.217345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:09:02.217345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-11-37.png" added="2025-09-20T13:11:37.578521Z" modified="2025-09-20T13:11:37.578525Z" visited="2025-09-20T13:11:37.578522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:11:37.578522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-16-53.png" added="2025-09-20T13:16:53.358859Z" modified="2025-09-20T13:16:53.358862Z" visited="2025-09-20T13:16:53.358859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:16:53.358859Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-27-52.png" added="2025-09-20T13:27:52.471711Z" modified="2025-09-20T13:27:52.471714Z" visited="2025-09-20T13:27:52.471711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:27:52.471711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-34-09.png" added="2025-09-20T13:34:09.692419Z" modified="2025-09-20T13:34:09.692422Z" visited="2025-09-20T13:34:09.692419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:34:09.692419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-35-00.png" added="2025-09-20T13:35:00.417222Z" modified="2025-09-20T13:35:00.417226Z" visited="2025-09-20T13:35:00.417222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:35:00.417223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2020-36-25.png" added="2025-09-20T13:36:25.914145Z" modified="2025-09-20T13:36:25.914149Z" visited="2025-09-20T13:36:25.914146Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T13:36:25.914147Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/tugas%201" added="2025-09-20T13:56:12.196521Z" modified="2025-09-20T13:56:12.196544Z" visited="2025-09-20T13:56:12.196524Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-20T13:56:12.196531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/189cf2c3-9144-48e3-9880-5048cf130c87.jpeg" added="2025-09-20T14:02:32.434767Z" modified="2025-09-20T14:02:56.862777Z" visited="2025-09-20T14:02:32.434768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T14:02:56.862774Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/WhatsApp%20Image%202025-09-15%20at%2009.09.27.jpeg" added="2025-09-20T14:07:00.921083Z" modified="2025-09-20T14:07:00.921088Z" visited="2025-09-20T14:07:00.921084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T14:07:00.921086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2021-53-59.png" added="2025-09-20T14:53:59.493973Z" modified="2025-09-20T14:53:59.493977Z" visited="2025-09-20T14:53:59.493975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T14:53:59.493975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2021-53-59-1.png" added="2025-09-20T14:53:59.734612Z" modified="2025-09-20T14:53:59.734615Z" visited="2025-09-20T14:53:59.734613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T14:53:59.734613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2022-16-34.png" added="2025-09-20T15:16:34.457016Z" modified="2025-09-20T15:16:34.457021Z" visited="2025-09-20T15:16:34.457016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T15:16:34.457017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2022-17-38.png" added="2025-09-20T15:17:38.417789Z" modified="2025-09-20T15:17:38.417793Z" visited="2025-09-20T15:17:38.417790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T15:17:38.417790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/a5e31a47-9e95-4a96-9257-f8a5fbec3083.jpeg" added="2025-09-20T15:58:44.142313Z" modified="2025-09-20T17:05:43.251833Z" visited="2025-09-20T15:58:44.142314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T15:58:44.142317Z" count="1"/>
+          <bookmark:application name="komorebi-wallpaper-creator" exec="&apos;komorebi-wallpaper-creator %u&apos;" modified="2025-09-20T17:05:43.251818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/gettyimages-2169787207-594x594.jpg" added="2025-09-20T16:01:46.511777Z" modified="2025-09-20T16:01:47.374485Z" visited="2025-09-20T16:01:46.511778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-20T16:01:47.374483Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/1396546.jpg" added="2025-09-20T16:03:42.691178Z" modified="2025-09-20T16:31:18.101841Z" visited="2025-09-20T16:03:42.691181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T16:03:42.691188Z" count="1"/>
+          <bookmark:application name="komorebi-wallpaper-creator" exec="&apos;komorebi-wallpaper-creator %u&apos;" modified="2025-09-20T16:31:18.101834Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-20-21.png" added="2025-09-20T16:20:21.673845Z" modified="2025-09-20T16:20:21.673849Z" visited="2025-09-20T16:20:21.673846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:20:21.673847Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-20-57.png" added="2025-09-20T16:20:57.466139Z" modified="2025-09-20T16:20:57.466144Z" visited="2025-09-20T16:20:57.466140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:20:57.466140Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-22-45.png" added="2025-09-20T16:22:45.758008Z" modified="2025-09-20T16:23:47.909839Z" visited="2025-09-20T16:22:45.758009Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:22:45.758010Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-20T16:23:47.909829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-25-25.png" added="2025-09-20T16:25:25.634701Z" modified="2025-09-20T16:25:25.634706Z" visited="2025-09-20T16:25:25.634702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:25:25.634704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/oibto-juubi-awakened-moewalls-com.mp4" added="2025-09-20T16:29:27.838642Z" modified="2025-09-20T16:53:20.585331Z" visited="2025-09-20T16:29:27.838643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="komorebi-wallpaper-creator" exec="&apos;komorebi-wallpaper-creator %u&apos;" modified="2025-09-20T16:53:20.585324Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-44-35.png" added="2025-09-20T16:44:35.924377Z" modified="2025-09-20T16:44:35.924425Z" visited="2025-09-20T16:44:35.924379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:44:35.924379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-47-18.png" added="2025-09-20T16:47:18.674436Z" modified="2025-09-20T16:47:18.674441Z" visited="2025-09-20T16:47:18.674437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:47:18.674437Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-47-33.png" added="2025-09-20T16:47:33.815865Z" modified="2025-09-20T16:47:33.815874Z" visited="2025-09-20T16:47:33.815867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:47:33.815867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-20%2023-50-46.png" added="2025-09-20T16:50:46.594413Z" modified="2025-09-20T16:50:46.594437Z" visited="2025-09-20T16:50:46.594418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T16:50:46.594419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/pokemon-gengar-moewalls-com.mp4" added="2025-09-20T17:04:21.526997Z" modified="2025-09-20T17:05:32.613472Z" visited="2025-09-20T17:04:21.527000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="komorebi-wallpaper-creator" exec="&apos;komorebi-wallpaper-creator %u&apos;" modified="2025-09-20T17:05:32.613462Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2025-09-20T17:23:50.445455Z" modified="2025-09-28T13:19:48.363183Z" visited="2025-09-20T17:23:50.445458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:groups>
+          <bookmark:group>baobab</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="baobab" exec="&apos;baobab %u&apos;" modified="2025-09-28T13:19:48.363178Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-21%2002-03-09.png" added="2025-09-20T19:03:09.969476Z" modified="2025-09-20T19:03:09.969482Z" visited="2025-09-20T19:03:09.969477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T19:03:09.969478Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-21%2002-07-49.png" added="2025-09-20T19:07:49.287530Z" modified="2025-09-20T19:07:49.287533Z" visited="2025-09-20T19:07:49.287531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-20T19:07:49.287531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-21%2009-19-58.png" added="2025-09-21T02:19:58.685978Z" modified="2025-09-21T08:06:21.186606Z" visited="2025-09-21T02:19:58.685980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-21T02:19:58.685980Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-21T08:06:20.651978Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T08:06:21.186603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/hyprland/hypr/hyprland.conf" added="2025-09-21T02:42:43.213927Z" modified="2025-09-21T02:42:43.213945Z" visited="2025-09-21T02:42:43.213929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-21T02:42:43.213935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/hyprland/set-hypr" added="2025-09-21T02:43:57.492318Z" modified="2025-09-21T08:10:17.439007Z" visited="2025-09-21T02:43:57.492321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2025-09-21T08:10:17.439000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/hyprland/hypr/xdg-portal-hyprland" added="2025-09-21T02:47:27.129717Z" modified="2025-09-21T08:10:03.276327Z" visited="2025-09-21T02:47:27.129718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2025-09-21T08:10:03.276324Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Dokumentasi/install%20mongodb" added="2025-09-21T08:06:50.765352Z" modified="2025-09-21T08:06:50.765376Z" visited="2025-09-21T08:06:50.765356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T08:06:50.765361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Dokumentasi/install%20vs%20code" added="2025-09-21T08:11:19.792455Z" modified="2025-09-21T08:11:19.792477Z" visited="2025-09-21T08:11:19.792457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T08:11:19.792462Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/plymouth-themes/ubuntu-logo-preview.png" added="2025-09-21T08:40:16.373532Z" modified="2025-09-21T08:40:16.766232Z" visited="2025-09-21T08:40:16.373533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-21T08:40:16.373536Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T08:40:16.766230Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads" added="2025-09-21T08:52:39.202358Z" modified="2025-09-21T08:52:39.202379Z" visited="2025-09-21T08:52:39.202361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-21T08:52:39.202367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/arch-mac-style/arch-mac-style.plymouth" added="2025-09-21T08:53:17.226065Z" modified="2025-09-21T08:53:17.226091Z" visited="2025-09-21T08:53:17.226067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-21T08:53:17.226075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/yay/pkg/yay/usr/share/plymouth" added="2025-09-21T08:59:58.353190Z" modified="2025-09-21T08:59:58.353210Z" visited="2025-09-21T08:59:58.353192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T08:59:58.353198Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/yay/pkg/yay/usr/share/plymouth/themes" added="2025-09-21T09:00:04.615268Z" modified="2025-09-21T09:00:04.615293Z" visited="2025-09-21T09:00:04.615271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T09:00:04.615278Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/Sesion-1" added="2025-09-21T15:13:03.585672Z" modified="2025-09-21T16:45:38.322417Z" visited="2025-09-21T15:13:03.585674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T15:13:03.585679Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-21T16:45:38.322408Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1" added="2025-09-21T16:46:17.556939Z" modified="2025-09-21T18:09:24.278409Z" visited="2025-09-21T16:46:17.556942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:08:32.339624Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-21T18:09:24.278399Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1/apps" added="2025-09-21T16:46:28.403725Z" modified="2025-09-21T18:08:40.028250Z" visited="2025-09-21T16:46:28.403727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:08:40.028242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1/docs" added="2025-09-21T16:46:32.709872Z" modified="2025-09-21T16:46:32.709882Z" visited="2025-09-21T16:46:32.709873Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T16:46:32.709877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1/issue" added="2025-09-21T16:46:37.661974Z" modified="2025-09-21T18:08:54.198460Z" visited="2025-09-21T16:46:37.661976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:08:54.198449Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1/note" added="2025-09-21T16:46:46.705089Z" modified="2025-09-21T18:08:59.674544Z" visited="2025-09-21T16:46:46.705128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:08:59.674532Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Dokumentasi/integrasi%20ssh/Screenshot%20From%202025-09-17%2019-38-06.png" added="2025-09-21T17:02:59.091981Z" modified="2025-09-21T17:02:59.472924Z" visited="2025-09-21T17:02:59.091982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-21T17:02:59.091985Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T17:02:59.472922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Dokumentasi/bikin%20akun%20github/Screenshot%20From%202025-09-17%2019-26-10.png" added="2025-09-21T17:26:03.376986Z" modified="2025-09-21T17:26:03.376991Z" visited="2025-09-21T17:26:03.376987Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T17:26:03.376989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Dokumentasi/bikin%20akun%20github/Screenshot%20From%202025-09-17%2019-28-37.png" added="2025-09-21T17:26:27.523062Z" modified="2025-09-21T17:26:27.523067Z" visited="2025-09-21T17:26:27.523063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-21T17:26:27.523065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-1/dokumentasi" added="2025-09-21T18:08:48.091878Z" modified="2025-09-21T18:08:48.091902Z" visited="2025-09-21T18:08:48.091881Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:08:48.091887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2" added="2025-09-21T18:28:54.278686Z" modified="2025-09-22T08:31:25.171130Z" visited="2025-09-21T18:28:54.278688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-21T18:28:54.278690Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-22T08:31:25.171124Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img" added="2025-09-22T08:29:04.563847Z" modified="2025-09-22T08:29:04.563857Z" visited="2025-09-22T08:29:04.563848Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-22T08:29:04.563851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/bikin%20akun%20github/Screenshot%20From%202025-09-17%2019-26-10.png" added="2025-09-22T08:36:00.591650Z" modified="2025-09-22T16:44:18.678434Z" visited="2025-09-22T08:36:00.591651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-22T08:36:00.591654Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:44:18.678432Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mariadb" added="2025-09-22T15:39:13.679134Z" modified="2025-09-22T15:39:13.679151Z" visited="2025-09-22T15:39:13.679136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-22T15:39:13.679141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mariadb/WhatsApp%20Image%202025-09-17%20at%2021.05.28.jpeg" added="2025-09-22T15:39:42.002981Z" modified="2025-09-22T15:39:42.428589Z" visited="2025-09-22T15:39:42.003064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-22T15:39:42.003076Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T15:39:42.428587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/B%20069%20-%20SURAT%20UNDANGAN%20LO%20ARTEFAH.pdf" added="2025-09-22T15:53:51.691625Z" modified="2025-09-22T15:53:51.691647Z" visited="2025-09-22T15:53:51.691627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-22T15:53:51.691635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mariadb/WhatsApp%20Image%202025-09-17%20at%2021.05.30.jpeg" added="2025-09-22T15:57:51.070155Z" modified="2025-09-22T15:57:51.070161Z" visited="2025-09-22T15:57:51.070155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T15:57:51.070157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mariadb/WhatsApp%20Image%202025-09-17%20at%2021.05.31.jpeg" added="2025-09-22T15:59:03.382718Z" modified="2025-09-22T15:59:03.382725Z" visited="2025-09-22T15:59:03.382719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T15:59:03.382721Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mariadb/WhatsApp%20Image%202025-09-17%20at%2021.05.30%20(1).jpeg" added="2025-09-22T16:01:31.059190Z" modified="2025-09-22T16:01:31.059197Z" visited="2025-09-22T16:01:31.059192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:01:31.059194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-22%2023-04-07.png" added="2025-09-22T16:04:07.981148Z" modified="2025-09-22T16:04:07.981152Z" visited="2025-09-22T16:04:07.981149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-22T16:04:07.981149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mongodb/WhatsApp%20Image%202025-09-21%20at%2015.04.25.jpeg" added="2025-09-22T16:06:29.539298Z" modified="2025-09-22T16:06:29.539305Z" visited="2025-09-22T16:06:29.539299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:06:29.539301Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mongodb/WhatsApp%20Image%202025-09-21%20at%2015.04.25%20(2).jpeg" added="2025-09-22T16:08:58.968387Z" modified="2025-09-22T16:08:58.968393Z" visited="2025-09-22T16:08:58.968388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:08:58.968390Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mongodb/WhatsApp%20Image%202025-09-21%20at%2015.04.26%20(1).jpeg" added="2025-09-22T16:11:17.486889Z" modified="2025-09-22T16:11:17.486896Z" visited="2025-09-22T16:11:17.486890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:11:17.486892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/install%20mongodb/WhatsApp%20Image%202025-09-21%20at%2015.04.27.jpeg" added="2025-09-22T16:20:13.456448Z" modified="2025-09-22T16:20:13.456454Z" visited="2025-09-22T16:20:13.456449Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:20:13.456451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/sesion-2/img/integrasi%20ssh/Screenshot%20From%202025-09-17%2019-38-06.png" added="2025-09-22T16:27:37.322185Z" modified="2025-09-22T16:27:37.322192Z" visited="2025-09-22T16:27:37.322187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-22T16:27:37.322188Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-22%2023-39-38.png" added="2025-09-22T16:39:38.087446Z" modified="2025-09-22T16:39:38.087449Z" visited="2025-09-22T16:39:38.087446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-22T16:39:38.087446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/hyprland-starter/hypr/hyprland.conf" added="2025-09-24T03:08:23.817162Z" modified="2025-09-24T03:08:25.791423Z" visited="2025-09-24T03:08:23.817165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-24T03:08:25.791419Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/hyprland-starter/hypr/hyprpaper.conf" added="2025-09-24T03:10:22.848597Z" modified="2025-09-24T03:10:49.577676Z" visited="2025-09-24T03:10:22.848600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-09-24T03:10:49.577668Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Downloads/hyprland-starter/wallpapers/wallpaper2.jpg" added="2025-09-24T03:11:49.081317Z" modified="2025-09-24T03:11:49.452830Z" visited="2025-09-24T03:11:49.081321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-24T03:11:49.081334Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-24T03:11:49.452827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/syahril" added="2025-09-25T11:50:07.934607Z" modified="2025-09-25T11:52:09.849214Z" visited="2025-09-25T11:50:07.934610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-25T11:50:07.934617Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-25T11:52:09.849204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/syahril/docs" added="2025-09-25T11:50:18.030369Z" modified="2025-09-25T11:50:18.030381Z" visited="2025-09-25T11:50:18.030371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-25T11:50:18.030374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-21-32.png" added="2025-09-27T05:21:32.889068Z" modified="2025-09-27T05:21:49.242663Z" visited="2025-09-27T05:21:32.889069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:21:32.889069Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-27T05:21:48.870244Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T05:21:49.242661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-24-19.png" added="2025-09-27T05:24:19.322243Z" modified="2025-09-27T05:31:46.058934Z" visited="2025-09-27T05:24:19.322244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:24:19.322244Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-27T05:31:45.710176Z" count="2"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T05:31:46.058932Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-29-25.png" added="2025-09-27T05:29:25.232463Z" modified="2025-09-27T05:29:25.232468Z" visited="2025-09-27T05:29:25.232464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:29:25.232465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-30-59.png" added="2025-09-27T05:30:59.399795Z" modified="2025-09-27T05:30:59.399798Z" visited="2025-09-27T05:30:59.399796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:30:59.399796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-31-23.png" added="2025-09-27T05:31:23.706038Z" modified="2025-09-27T05:31:23.706042Z" visited="2025-09-27T05:31:23.706039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:31:23.706039Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2012-32-42.png" added="2025-09-27T05:32:42.669993Z" modified="2025-09-27T05:32:42.669996Z" visited="2025-09-27T05:32:42.669993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T05:32:42.669994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-12-16.png" added="2025-09-27T06:12:16.014620Z" modified="2025-09-27T06:12:16.014622Z" visited="2025-09-27T06:12:16.014620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:12:16.014620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-16-40.png" added="2025-09-27T06:16:40.193698Z" modified="2025-09-27T06:16:40.193701Z" visited="2025-09-27T06:16:40.193698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:16:40.193699Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-19-08.png" added="2025-09-27T06:19:08.223891Z" modified="2025-09-27T06:19:08.223894Z" visited="2025-09-27T06:19:08.223892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:19:08.223892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-21-57.png" added="2025-09-27T06:21:57.477849Z" modified="2025-09-27T06:21:57.477853Z" visited="2025-09-27T06:21:57.477850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:21:57.477850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-43-28.png" added="2025-09-27T06:43:28.065655Z" modified="2025-09-27T06:43:28.065658Z" visited="2025-09-27T06:43:28.065656Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:43:28.065656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2013-51-49.png" added="2025-09-27T06:51:49.078701Z" modified="2025-09-27T06:51:49.078705Z" visited="2025-09-27T06:51:49.078702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T06:51:49.078702Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-24-25.png" added="2025-09-27T07:24:25.318389Z" modified="2025-09-27T07:24:25.318393Z" visited="2025-09-27T07:24:25.318390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:24:25.318391Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-43-51.png" added="2025-09-27T07:43:51.909958Z" modified="2025-09-27T07:43:51.909963Z" visited="2025-09-27T07:43:51.909959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:43:51.909960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-47-01.png" added="2025-09-27T07:47:01.848129Z" modified="2025-09-27T07:47:01.848133Z" visited="2025-09-27T07:47:01.848130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:47:01.848130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-47-32.png" added="2025-09-27T07:47:32.077786Z" modified="2025-09-27T07:47:32.077790Z" visited="2025-09-27T07:47:32.077787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:47:32.077787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-48-47.png" added="2025-09-27T07:48:47.848943Z" modified="2025-09-27T07:48:47.848948Z" visited="2025-09-27T07:48:47.848945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:48:47.848945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-54-29.png" added="2025-09-27T07:54:29.708812Z" modified="2025-09-27T07:54:29.708817Z" visited="2025-09-27T07:54:29.708814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:54:29.708814Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-58-59.png" added="2025-09-27T07:58:59.969942Z" modified="2025-09-27T07:58:59.969946Z" visited="2025-09-27T07:58:59.969943Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:58:59.969944Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-59-21.png" added="2025-09-27T07:59:21.812664Z" modified="2025-09-27T07:59:21.812668Z" visited="2025-09-27T07:59:21.812666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:59:21.812666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2014-59-43.png" added="2025-09-27T07:59:43.329487Z" modified="2025-09-27T07:59:43.329492Z" visited="2025-09-27T07:59:43.329489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T07:59:43.329489Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-11-23.png" added="2025-09-27T08:11:23.846689Z" modified="2025-09-27T08:11:23.846693Z" visited="2025-09-27T08:11:23.846690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:11:23.846690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-13-46.png" added="2025-09-27T08:13:46.935154Z" modified="2025-09-27T08:13:46.935158Z" visited="2025-09-27T08:13:46.935155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:13:46.935155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-14-09.png" added="2025-09-27T08:14:09.363396Z" modified="2025-09-27T08:14:09.363399Z" visited="2025-09-27T08:14:09.363397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:14:09.363397Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-15-04.png" added="2025-09-27T08:15:04.011869Z" modified="2025-09-27T08:15:04.011872Z" visited="2025-09-27T08:15:04.011869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:15:04.011870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-15-33.png" added="2025-09-27T08:15:33.921149Z" modified="2025-09-27T08:15:33.921155Z" visited="2025-09-27T08:15:33.921150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:15:33.921151Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-24-54.png" added="2025-09-27T08:24:54.212788Z" modified="2025-09-27T08:24:54.212792Z" visited="2025-09-27T08:24:54.212789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:24:54.212789Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-25-44.png" added="2025-09-27T08:25:44.231286Z" modified="2025-09-27T08:25:44.231290Z" visited="2025-09-27T08:25:44.231288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:25:44.231288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-30-05.png" added="2025-09-27T08:30:05.521238Z" modified="2025-09-27T08:30:05.521242Z" visited="2025-09-27T08:30:05.521239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:30:05.521239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-30-11.png" added="2025-09-27T08:30:11.015813Z" modified="2025-09-27T08:30:11.015817Z" visited="2025-09-27T08:30:11.015814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:30:11.015815Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-30-23.png" added="2025-09-27T08:30:23.253800Z" modified="2025-09-27T08:30:23.253803Z" visited="2025-09-27T08:30:23.253801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:30:23.253801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-30-45.png" added="2025-09-27T08:30:45.171281Z" modified="2025-09-27T08:30:45.171285Z" visited="2025-09-27T08:30:45.171282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:30:45.171282Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-31-52.png" added="2025-09-27T08:31:52.587503Z" modified="2025-09-27T08:31:52.587508Z" visited="2025-09-27T08:31:52.587504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:31:52.587505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-53-24.png" added="2025-09-27T08:53:24.172138Z" modified="2025-09-27T08:53:24.172142Z" visited="2025-09-27T08:53:24.172138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:53:24.172140Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-53-45.png" added="2025-09-27T08:53:45.116830Z" modified="2025-09-27T08:53:45.116835Z" visited="2025-09-27T08:53:45.116831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:53:45.116832Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-54-25.png" added="2025-09-27T08:54:25.151482Z" modified="2025-09-27T08:54:25.151486Z" visited="2025-09-27T08:54:25.151482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:54:25.151484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-54-41.png" added="2025-09-27T08:54:41.372482Z" modified="2025-09-27T08:54:41.372487Z" visited="2025-09-27T08:54:41.372483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:54:41.372484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-55-20.png" added="2025-09-27T08:55:20.011733Z" modified="2025-09-27T08:55:20.011737Z" visited="2025-09-27T08:55:20.011733Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:55:20.011735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-56-00.png" added="2025-09-27T08:56:00.664433Z" modified="2025-09-27T08:56:00.664437Z" visited="2025-09-27T08:56:00.664433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:56:00.664434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-57-16.png" added="2025-09-27T08:57:16.236317Z" modified="2025-09-27T08:57:16.236321Z" visited="2025-09-27T08:57:16.236318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:57:16.236319Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-57-39.png" added="2025-09-27T08:57:39.404063Z" modified="2025-09-27T08:57:39.404066Z" visited="2025-09-27T08:57:39.404064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:57:39.404064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-58-05.png" added="2025-09-27T08:58:05.771182Z" modified="2025-09-27T08:58:05.771186Z" visited="2025-09-27T08:58:05.771183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:58:05.771183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2015-59-12.png" added="2025-09-27T08:59:12.388807Z" modified="2025-09-27T08:59:12.388810Z" visited="2025-09-27T08:59:12.388807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T08:59:12.388808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-04-11.png" added="2025-09-27T09:04:11.541310Z" modified="2025-09-27T09:04:11.541315Z" visited="2025-09-27T09:04:11.541311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:04:11.541312Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-04-22.png" added="2025-09-27T09:04:22.885361Z" modified="2025-09-27T09:04:22.885366Z" visited="2025-09-27T09:04:22.885362Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:04:22.885364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-04-32.png" added="2025-09-27T09:04:32.669111Z" modified="2025-09-27T09:04:32.669114Z" visited="2025-09-27T09:04:32.669112Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:04:32.669112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-07-46.png" added="2025-09-27T09:07:46.533461Z" modified="2025-09-27T09:07:46.533465Z" visited="2025-09-27T09:07:46.533462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:07:46.533463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-08-05.png" added="2025-09-27T09:08:05.457379Z" modified="2025-09-27T09:08:05.457383Z" visited="2025-09-27T09:08:05.457379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:08:05.457380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-08-55.png" added="2025-09-27T09:08:55.663121Z" modified="2025-09-27T09:08:55.663124Z" visited="2025-09-27T09:08:55.663122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:08:55.663122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-09-06.png" added="2025-09-27T09:09:06.710997Z" modified="2025-09-27T09:09:06.711000Z" visited="2025-09-27T09:09:06.710997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:09:06.710998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-09-16.png" added="2025-09-27T09:09:16.804857Z" modified="2025-09-27T09:09:16.804860Z" visited="2025-09-27T09:09:16.804858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:09:16.804858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-09-56.png" added="2025-09-27T09:09:56.102992Z" modified="2025-09-27T09:09:56.102996Z" visited="2025-09-27T09:09:56.102993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:09:56.102993Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-18-40.png" added="2025-09-27T09:18:40.735969Z" modified="2025-09-27T09:18:40.735973Z" visited="2025-09-27T09:18:40.735970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:18:40.735970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-18-50.png" added="2025-09-27T09:18:50.873248Z" modified="2025-09-27T09:18:50.873252Z" visited="2025-09-27T09:18:50.873249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:18:50.873250Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-19-05.png" added="2025-09-27T09:19:05.649774Z" modified="2025-09-27T09:19:05.649778Z" visited="2025-09-27T09:19:05.649775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:19:05.649775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-19-25.png" added="2025-09-27T09:19:25.438339Z" modified="2025-09-27T09:19:25.438342Z" visited="2025-09-27T09:19:25.438339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:19:25.438340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-19-34.png" added="2025-09-27T09:19:34.852453Z" modified="2025-09-27T09:19:34.852456Z" visited="2025-09-27T09:19:34.852454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:19:34.852454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-19-45.png" added="2025-09-27T09:19:45.683236Z" modified="2025-09-27T09:19:45.683239Z" visited="2025-09-27T09:19:45.683236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:19:45.683237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-19-56.png" added="2025-09-27T09:19:56.788236Z" modified="2025-09-27T09:19:56.788240Z" visited="2025-09-27T09:19:56.788237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:19:56.788237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-20-07.png" added="2025-09-27T09:20:07.095784Z" modified="2025-09-27T09:20:07.095788Z" visited="2025-09-27T09:20:07.095785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:20:07.095786Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-20-16.png" added="2025-09-27T09:20:16.994622Z" modified="2025-09-27T09:20:16.994626Z" visited="2025-09-27T09:20:16.994622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:20:16.994623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-20-27.png" added="2025-09-27T09:20:27.406129Z" modified="2025-09-27T09:20:27.406133Z" visited="2025-09-27T09:20:27.406130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:20:27.406131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-20-49.png" added="2025-09-27T09:20:49.920754Z" modified="2025-09-27T09:20:49.920757Z" visited="2025-09-27T09:20:49.920755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:20:49.920755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-21-00.png" added="2025-09-27T09:21:00.414608Z" modified="2025-09-27T09:21:00.414612Z" visited="2025-09-27T09:21:00.414609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:21:00.414609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-25-03.png" added="2025-09-27T09:25:03.207968Z" modified="2025-09-27T09:25:03.207972Z" visited="2025-09-27T09:25:03.207969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:25:03.207969Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-35-46.png" added="2025-09-27T09:35:46.085736Z" modified="2025-09-27T09:35:46.085740Z" visited="2025-09-27T09:35:46.085737Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:35:46.085737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-42-58.png" added="2025-09-27T09:42:58.178848Z" modified="2025-09-27T09:42:58.178852Z" visited="2025-09-27T09:42:58.178849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:42:58.178849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-44-13.png" added="2025-09-27T09:44:13.531186Z" modified="2025-09-27T09:44:13.531189Z" visited="2025-09-27T09:44:13.531187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:44:13.531187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-45-59.png" added="2025-09-27T09:45:59.606748Z" modified="2025-09-27T09:45:59.606751Z" visited="2025-09-27T09:45:59.606749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:45:59.606749Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-53-38.png" added="2025-09-27T09:53:38.634321Z" modified="2025-09-27T09:53:38.634324Z" visited="2025-09-27T09:53:38.634322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:53:38.634322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-55-03.png" added="2025-09-27T09:55:03.858093Z" modified="2025-09-27T09:55:03.858096Z" visited="2025-09-27T09:55:03.858094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:55:03.858094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-55-13.png" added="2025-09-27T09:55:13.846470Z" modified="2025-09-27T09:55:13.846473Z" visited="2025-09-27T09:55:13.846470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:55:13.846471Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-55-26.png" added="2025-09-27T09:55:26.336247Z" modified="2025-09-27T09:55:26.336251Z" visited="2025-09-27T09:55:26.336248Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:55:26.336249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-57-15.png" added="2025-09-27T09:57:15.253271Z" modified="2025-09-27T09:57:15.253274Z" visited="2025-09-27T09:57:15.253271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:57:15.253272Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-57-27.png" added="2025-09-27T09:57:27.992021Z" modified="2025-09-27T09:57:27.992025Z" visited="2025-09-27T09:57:27.992022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:57:27.992022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-57-59.png" added="2025-09-27T09:57:59.350124Z" modified="2025-09-27T09:57:59.350127Z" visited="2025-09-27T09:57:59.350125Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:57:59.350125Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-58-08.png" added="2025-09-27T09:58:08.732948Z" modified="2025-09-27T09:58:08.732951Z" visited="2025-09-27T09:58:08.732948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:58:08.732949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-58-18.png" added="2025-09-27T09:58:18.569689Z" modified="2025-09-27T09:58:18.569692Z" visited="2025-09-27T09:58:18.569689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:58:18.569689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-58-28.png" added="2025-09-27T09:58:28.091460Z" modified="2025-09-27T09:58:28.091463Z" visited="2025-09-27T09:58:28.091460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:58:28.091460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-58-53.png" added="2025-09-27T09:58:53.587952Z" modified="2025-09-27T09:58:53.587955Z" visited="2025-09-27T09:58:53.587953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:58:53.587953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2016-59-18.png" added="2025-09-27T09:59:18.637160Z" modified="2025-09-27T09:59:18.637163Z" visited="2025-09-27T09:59:18.637160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T09:59:18.637161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-00-32.png" added="2025-09-27T10:00:32.454366Z" modified="2025-09-27T10:00:32.454370Z" visited="2025-09-27T10:00:32.454367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:00:32.454368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-01-40.png" added="2025-09-27T10:01:40.969797Z" modified="2025-09-27T10:01:40.969800Z" visited="2025-09-27T10:01:40.969797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:01:40.969798Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-06-38.png" added="2025-09-27T10:06:38.109704Z" modified="2025-09-27T10:06:38.109707Z" visited="2025-09-27T10:06:38.109705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:06:38.109705Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-07-28.png" added="2025-09-27T10:07:28.566541Z" modified="2025-09-27T10:07:28.566544Z" visited="2025-09-27T10:07:28.566542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:07:28.566542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-08-14.png" added="2025-09-27T10:08:14.947911Z" modified="2025-09-27T10:08:14.947915Z" visited="2025-09-27T10:08:14.947912Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:08:14.947912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-08-28.png" added="2025-09-27T10:08:28.121956Z" modified="2025-09-27T10:08:28.121959Z" visited="2025-09-27T10:08:28.121957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:08:28.121957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-08-58.png" added="2025-09-27T10:08:58.067871Z" modified="2025-09-27T10:08:58.067874Z" visited="2025-09-27T10:08:58.067871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:08:58.067872Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-48-24.png" added="2025-09-27T10:48:24.600726Z" modified="2025-09-27T10:48:24.600731Z" visited="2025-09-27T10:48:24.600728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:48:24.600728Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2017-48-53.png" added="2025-09-27T10:48:53.232173Z" modified="2025-09-27T12:12:15.496951Z" visited="2025-09-27T10:48:53.232174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T10:48:53.232175Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2025-09-27T12:12:14.987294Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T12:12:15.496949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-29-03.png" added="2025-09-27T12:29:03.165888Z" modified="2025-09-27T12:29:03.165891Z" visited="2025-09-27T12:29:03.165889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:29:03.165889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-35-20.png" added="2025-09-27T12:35:20.496879Z" modified="2025-09-27T12:35:20.496883Z" visited="2025-09-27T12:35:20.496880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:35:20.496881Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-35-35.png" added="2025-09-27T12:35:35.377000Z" modified="2025-09-27T12:35:35.377003Z" visited="2025-09-27T12:35:35.377001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:35:35.377001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-44-34.png" added="2025-09-27T12:44:34.019041Z" modified="2025-09-27T12:44:34.019045Z" visited="2025-09-27T12:44:34.019042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:44:34.019042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-45-42.png" added="2025-09-27T12:45:42.408035Z" modified="2025-09-27T12:45:42.408039Z" visited="2025-09-27T12:45:42.408036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:45:42.408036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-46-59.png" added="2025-09-27T12:46:59.947894Z" modified="2025-09-27T12:46:59.947898Z" visited="2025-09-27T12:46:59.947895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:46:59.947896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-48-01.png" added="2025-09-27T12:48:01.405890Z" modified="2025-09-27T12:48:01.405894Z" visited="2025-09-27T12:48:01.405891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:48:01.405891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-50-38.png" added="2025-09-27T12:50:39.003161Z" modified="2025-09-27T12:50:39.003166Z" visited="2025-09-27T12:50:39.003162Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:50:39.003162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-51-03.png" added="2025-09-27T12:51:03.062881Z" modified="2025-09-27T12:51:03.062884Z" visited="2025-09-27T12:51:03.062882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:51:03.062882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-51-16.png" added="2025-09-27T12:51:16.130152Z" modified="2025-09-27T12:51:16.130156Z" visited="2025-09-27T12:51:16.130153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:51:16.130153Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-53-13.png" added="2025-09-27T12:53:13.280173Z" modified="2025-09-27T12:53:13.280177Z" visited="2025-09-27T12:53:13.280174Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:53:13.280174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-53-28.png" added="2025-09-27T12:53:28.847093Z" modified="2025-09-27T12:53:28.847097Z" visited="2025-09-27T12:53:28.847093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:53:28.847094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2019-56-17.png" added="2025-09-27T12:56:17.224977Z" modified="2025-09-27T16:10:23.031935Z" visited="2025-09-27T12:56:17.224977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T12:56:17.224978Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T16:10:23.031932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-03-31.png" added="2025-09-27T13:03:31.004280Z" modified="2025-09-27T13:05:16.845136Z" visited="2025-09-27T13:03:31.004281Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:03:31.004281Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T13:05:16.845134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-05-41.png" added="2025-09-27T13:05:41.432479Z" modified="2025-09-27T13:05:41.432484Z" visited="2025-09-27T13:05:41.432480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:05:41.432481Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-08-52.png" added="2025-09-27T13:08:52.089550Z" modified="2025-09-27T13:08:52.089554Z" visited="2025-09-27T13:08:52.089551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:08:52.089551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-21-40.png" added="2025-09-27T13:21:40.235574Z" modified="2025-09-27T13:21:40.235580Z" visited="2025-09-27T13:21:40.235575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:21:40.235576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-26-51.png" added="2025-09-27T13:26:51.536055Z" modified="2025-09-27T13:26:51.536060Z" visited="2025-09-27T13:26:51.536056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:26:51.536056Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-37-37.png" added="2025-09-27T13:37:37.330452Z" modified="2025-09-27T13:37:37.330455Z" visited="2025-09-27T13:37:37.330452Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:37:37.330453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-51-30.png" added="2025-09-27T13:51:30.793353Z" modified="2025-09-27T13:51:30.793357Z" visited="2025-09-27T13:51:30.793354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:51:30.793354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2020-56-53.png" added="2025-09-27T13:56:53.993934Z" modified="2025-09-27T13:56:53.993938Z" visited="2025-09-27T13:56:53.993935Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T13:56:53.993935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-02-39.png" added="2025-09-27T14:02:39.448504Z" modified="2025-09-27T14:02:39.448508Z" visited="2025-09-27T14:02:39.448505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:02:39.448506Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-05-26.png" added="2025-09-27T14:05:26.866106Z" modified="2025-09-27T14:05:26.866109Z" visited="2025-09-27T14:05:26.866107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:05:26.866107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-19-00.png" added="2025-09-27T14:19:00.524541Z" modified="2025-09-27T14:19:00.524545Z" visited="2025-09-27T14:19:00.524542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:19:00.524542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-21-03.png" added="2025-09-27T14:21:03.741421Z" modified="2025-09-27T14:21:03.741425Z" visited="2025-09-27T14:21:03.741421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:21:03.741422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-25-40.png" added="2025-09-27T14:25:40.541671Z" modified="2025-09-27T14:25:40.541675Z" visited="2025-09-27T14:25:40.541672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:25:40.541673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-27-36.png" added="2025-09-27T14:27:36.820171Z" modified="2025-09-27T14:27:36.820175Z" visited="2025-09-27T14:27:36.820172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:27:36.820172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-28-15.png" added="2025-09-27T14:28:15.497618Z" modified="2025-09-27T14:28:15.497622Z" visited="2025-09-27T14:28:15.497619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:28:15.497619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-38-10.png" added="2025-09-27T14:38:10.479889Z" modified="2025-09-27T14:38:10.479893Z" visited="2025-09-27T14:38:10.479890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:38:10.479890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-39-03.png" added="2025-09-27T14:39:03.370469Z" modified="2025-09-27T14:39:03.370472Z" visited="2025-09-27T14:39:03.370469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:39:03.370470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-58-31.png" added="2025-09-27T14:58:31.355905Z" modified="2025-09-27T16:09:13.578385Z" visited="2025-09-27T14:58:31.355906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:58:31.355907Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T16:09:13.578382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2021-59-09.png" added="2025-09-27T14:59:09.812593Z" modified="2025-09-27T14:59:09.812596Z" visited="2025-09-27T14:59:09.812594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T14:59:09.812594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-00-02.png" added="2025-09-27T15:00:02.089101Z" modified="2025-09-27T15:00:02.089105Z" visited="2025-09-27T15:00:02.089102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:00:02.089102Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-01-25.png" added="2025-09-27T15:01:25.636633Z" modified="2025-09-27T15:01:25.636636Z" visited="2025-09-27T15:01:25.636634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:01:25.636634Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-06-45.png" added="2025-09-27T15:06:45.326591Z" modified="2025-09-27T16:07:54.692186Z" visited="2025-09-27T15:06:45.326592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:06:45.326592Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2025-09-27T16:07:54.692183Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-12-26.png" added="2025-09-27T15:12:26.455776Z" modified="2025-09-27T15:12:26.455780Z" visited="2025-09-27T15:12:26.455777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:12:26.455777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-12-44.png" added="2025-09-27T15:12:44.703104Z" modified="2025-09-27T15:12:44.703107Z" visited="2025-09-27T15:12:44.703104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:12:44.703105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-37-39.png" added="2025-09-27T15:37:39.773595Z" modified="2025-09-27T15:37:39.773599Z" visited="2025-09-27T15:37:39.773596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:37:39.773597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-38-19.png" added="2025-09-27T15:38:19.472236Z" modified="2025-09-27T15:38:19.472240Z" visited="2025-09-27T15:38:19.472237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:38:19.472237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-42-51.png" added="2025-09-27T15:42:51.415963Z" modified="2025-09-27T15:42:51.415966Z" visited="2025-09-27T15:42:51.415964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:42:51.415964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-43-27.png" added="2025-09-27T15:43:27.733733Z" modified="2025-09-27T15:43:27.733736Z" visited="2025-09-27T15:43:27.733734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:43:27.733734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-44-04.png" added="2025-09-27T15:44:04.124769Z" modified="2025-09-27T15:44:04.124773Z" visited="2025-09-27T15:44:04.124770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:44:04.124771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-46-19.png" added="2025-09-27T15:46:19.590254Z" modified="2025-09-27T15:46:19.590258Z" visited="2025-09-27T15:46:19.590255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:46:19.590255Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-46-51.png" added="2025-09-27T15:46:51.269616Z" modified="2025-09-27T15:46:51.269619Z" visited="2025-09-27T15:46:51.269616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:46:51.269616Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-47-07.png" added="2025-09-27T15:47:07.786365Z" modified="2025-09-27T15:47:07.786368Z" visited="2025-09-27T15:47:07.786366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:47:07.786366Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-47-18.png" added="2025-09-27T15:47:18.877274Z" modified="2025-09-27T15:47:18.877278Z" visited="2025-09-27T15:47:18.877275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:47:18.877275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-47-29.png" added="2025-09-27T15:47:29.361667Z" modified="2025-09-27T15:47:29.361670Z" visited="2025-09-27T15:47:29.361668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:47:29.361668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-47-58.png" added="2025-09-27T15:47:58.371769Z" modified="2025-09-27T15:47:58.371773Z" visited="2025-09-27T15:47:58.371770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:47:58.371770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-51-22.png" added="2025-09-27T15:51:22.652089Z" modified="2025-09-27T15:51:22.652093Z" visited="2025-09-27T15:51:22.652090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:51:22.652090Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-51-44.png" added="2025-09-27T15:51:44.056297Z" modified="2025-09-27T15:51:44.056300Z" visited="2025-09-27T15:51:44.056298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:51:44.056298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-52-02.png" added="2025-09-27T15:52:02.689782Z" modified="2025-09-27T15:52:02.689785Z" visited="2025-09-27T15:52:02.689782Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:52:02.689783Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-53-15.png" added="2025-09-27T15:53:15.995360Z" modified="2025-09-27T15:53:15.995364Z" visited="2025-09-27T15:53:15.995361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:53:15.995361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-53-38.png" added="2025-09-27T15:53:38.428245Z" modified="2025-09-27T15:53:38.428249Z" visited="2025-09-27T15:53:38.428245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:53:38.428246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-54-24.png" added="2025-09-27T15:54:24.659519Z" modified="2025-09-27T15:54:24.659523Z" visited="2025-09-27T15:54:24.659520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:54:24.659520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-56-06.png" added="2025-09-27T15:56:06.628879Z" modified="2025-09-27T15:56:06.628882Z" visited="2025-09-27T15:56:06.628879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:56:06.628880Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-56-54.png" added="2025-09-27T15:56:54.819499Z" modified="2025-09-27T15:56:54.819502Z" visited="2025-09-27T15:56:54.819499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:56:54.819500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-57-02.png" added="2025-09-27T15:57:02.755881Z" modified="2025-09-27T15:57:02.755884Z" visited="2025-09-27T15:57:02.755882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:57:02.755882Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-57-48.png" added="2025-09-27T15:57:48.311722Z" modified="2025-09-27T15:57:48.311725Z" visited="2025-09-27T15:57:48.311723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:57:48.311723Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-59-02.png" added="2025-09-27T15:59:02.719202Z" modified="2025-09-27T15:59:02.719206Z" visited="2025-09-27T15:59:02.719203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:59:02.719204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2022-59-10.png" added="2025-09-27T15:59:10.844631Z" modified="2025-09-27T15:59:10.844635Z" visited="2025-09-27T15:59:10.844632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T15:59:10.844632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-02-43.png" added="2025-09-27T16:02:43.069546Z" modified="2025-09-27T16:02:43.069549Z" visited="2025-09-27T16:02:43.069547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:02:43.069547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-02-53.png" added="2025-09-27T16:02:53.334773Z" modified="2025-09-27T16:02:53.334777Z" visited="2025-09-27T16:02:53.334774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:02:53.334774Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-05-48.png" added="2025-09-27T16:05:48.982426Z" modified="2025-09-27T16:05:48.982429Z" visited="2025-09-27T16:05:48.982427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:05:48.982427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-06-07.png" added="2025-09-27T16:06:07.234325Z" modified="2025-09-27T16:06:07.234329Z" visited="2025-09-27T16:06:07.234326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:06:07.234326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-06-18.png" added="2025-09-27T16:06:18.377890Z" modified="2025-09-27T16:06:18.377894Z" visited="2025-09-27T16:06:18.377891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:06:18.377891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-06-57.png" added="2025-09-27T16:06:57.121574Z" modified="2025-09-27T16:06:57.121578Z" visited="2025-09-27T16:06:57.121575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:06:57.121575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Pictures/Screenshots/Screenshot%20From%202025-09-27%2023-07-10.png" added="2025-09-27T16:07:10.936535Z" modified="2025-09-27T16:07:10.936538Z" visited="2025-09-27T16:07:10.936535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gio open %u&apos;" modified="2025-09-27T16:07:10.936536Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/whybukos/Documents/catatan%20mariadb" added="2025-09-28T13:37:48.174021Z" modified="2025-09-28T13:37:49.930249Z" visited="2025-09-28T13:37:48.174023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-09-28T13:37:48.174025Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2025-09-28T13:37:49.930243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

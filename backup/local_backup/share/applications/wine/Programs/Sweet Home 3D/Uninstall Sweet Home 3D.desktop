@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Sweet Home 3D
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\Sweet Home 3D\\\\Uninstall Sweet Home 3D.lnk"
+Type=Application
+StartupNotify=true
+Path=/home/whybukos/.wine/drive_c/Program Files/Sweet Home 3D
+Icon=81E2_unins000.0
+StartupWMClass=unins000.exe

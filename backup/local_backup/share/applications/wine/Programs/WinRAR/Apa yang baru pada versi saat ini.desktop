@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Apa yang baru pada versi saat ini
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\WinRAR\\\\Apa yang baru pada versi saat ini.lnk"
+Type=Application
+StartupNotify=true
+Comment=Proses RAR, ZIP and format arsip lainnya
+Path=/home/whybukos/Desktop
+Icon=31DB_WhatsNew.0
+StartupWMClass=whatsnew.txt

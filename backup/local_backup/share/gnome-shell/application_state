@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="kitty.desktop" score="0.0126953125" last-seen="1758685125"/>
+    <application id="org.gnome.Loupe.desktop" score="3.1341556012630463" last-seen="1758989429"/>
+    <application id="org.gnome.Software.desktop" score="0.0018310546875" last-seen="1758685577"/>
+    <application id="google-chrome.desktop" score="680.5424578152597" last-seen="1759112396"/>
+    <application id="org.gnome.Epiphany.desktop" score="0.000244140625" last-seen="1758825466"/>
+    <application id="thunar.desktop" score="1" last-seen="1759063831"/>
+    <application id="org.gnome.TextEditor.desktop" score="57.505144152790308" last-seen="1759066794"/>
+    <application id="obsidian.desktop" score="369" last-seen="1759110925"/>
+    <application id="xgps.desktop" score="0" last-seen="1758685635"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="76695397" last-seen="1759063282"/>
+    <application id="org.gnome.Nautilus.desktop" score="24.042346432805061" last-seen="1759066669"/>
+    <application id="org.gnome.Totem.desktop" score="0" last-seen="1758545244"/>
+    <application id="org.gnome.Console.desktop" score="1087.7294553592801" last-seen="1759112408"/>
+    <application id="bssh.desktop" score="0" last-seen="1758545237"/>
+    <application id="org.gnome.baobab.desktop" score="35.0013427734375" last-seen="1759065652"/>
+    <application id="code.desktop" score="5113.8824488222599" last-seen="1759112002"/>
+    <application id="org.kde.dolphin.desktop" score="18.0003662109375" last-seen="1759112152"/>
+    <application id="lstopo.desktop" score="0" last-seen="1758625440"/>
+    <application id="org.gnome.Settings.desktop" score="1.1378174498677254" last-seen="1758965100"/>
+    <application id="org.komorebiteam.komorebi.desktop" score="0.0009765625" last-seen="1758544886"/>
+  </context>
+</application-state>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=WinRAR
+MimeType=application/x-xz;
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine start /ProgIDOpen "WinRAR" %f
+NoDisplay=true
+StartupNotify=true
+Icon=6C02_WinRAR.0

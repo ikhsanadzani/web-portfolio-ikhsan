@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WinRAR
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\WinRAR\\\\WinRAR.lnk"
+Type=Application
+StartupNotify=true
+Comment=Proses RAR, ZIP and format arsip lainnya
+Path=/home/whybukos/Desktop
+Icon=6C02_WinRAR.0
+StartupWMClass=winrar.exe

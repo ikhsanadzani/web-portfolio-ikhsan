@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Sweet Home 3D
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\Program Files\\\\Sweet Home 3D\\\\SweetHome3D.exe" ""
+Type=Application
+StartupNotify=true
+Comment=Arrange the furniture of your house
+Path=/home/whybukos/.wine/drive_c/Program Files/Sweet Home 3D
+Icon=D77A_SweetHome3D.0
+StartupWMClass=sweethome3d.exe

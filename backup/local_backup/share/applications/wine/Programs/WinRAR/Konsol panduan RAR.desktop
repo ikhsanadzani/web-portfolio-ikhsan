@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Konsol panduan RAR
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine "C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start Menu\\\\Programs\\\\WinRAR\\\\Konsol panduan RAR.lnk"
+Type=Application
+StartupNotify=true
+Comment=Proses RAR, ZIP and format arsip lainnya
+Path=/home/whybukos/Desktop
+Icon=F78B_Rar.0
+StartupWMClass=rar.txt

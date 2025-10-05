@@ -1,0 +1,95 @@
+. cari paket MongoDB di AUR
+yay -S mongodb-bin
+
+Selama proses:
+
+yay akan menanyakan apakah mau mengedit PKGBUILD → tekan N kalau tidak perlu.
+
+Tunggu sampai selesai build & install.
+
+2. Jika sudah bisa langsung cek status mongoDB
+dengan perintah : "systemctl status mongodb"
+3. lalu start service dengan perinta : "systemctl start mongodb"
+
+4. Enable service agar otomatis jalan saat boot: "sudo systemctl enable mongodb"
+
+5. Start service sekarang: "sudo systemctl start mongodb"
+
+6. Uji MongoDB
+
+Masuk ke shell MongoDB: mongosh
+
+selesai
+
+
+
+integrasi
+
+. Buka Visual Code Studio
+2. lalu buka terminal di vscode
+3. tekan new terminal
+4. ikuti langkah berikut ini yang pasti akan muncul diterminal kalian: 
+"$ ssh-keygen -t ed25519 -C "youremail.com" Generating public/private ed25519 key pair."
+
+Enter file in which to save the key (/home/whybukos/.ssh/id_ed25519): file {nama kan file kalian}
+
+Enter passphrase for "file" (empty for no passphrase): (langsung enter aja)
+
+Enter same passphrase again:
+
+5. lalu nanti kembali lagi ke awal 
+
+6. terus kita akan membuat direktori dengan perintah:
+mkdir .ssh
+cd 
+ls (setelah ls akan muncul isi file mirip seperti ini)
+
+Desktop  Downloads  file.pub  Pictures  Templates  yay
+Documents  file  Music  Public  Videos
+
+lalu kita akan memindahkan file yang tadi kalian buat ke file.pub dengan perintah : 
+- mv file file.pub.ssh/
+- cat .ssh/file
+- cat .ssh/file.pub
+setelah itu akan muncul kunci SSH kalian 
+
+7. lanjut kita akan membuak github, jangan lupa untuk menyalin kunci SSH yang tadi
+
+8. Sudah di github, kalian ke profile dan klik opsi setting 
+
+9. lalu klik opsi SSH and GPG Keys
+
+10. klik new ssh key
+
+11. beri nama sesuka kalian 
+
+12. dan tempelkan ssh key yang sudah kalian salin sebelumnya
+
+selesai.
+
+
+akun github
+
+1. Buka browser kalian
+2. ketik Github dan akan muncul di bagian paling atas
+3. klik situsnya 
+4. lalu disana ada opsi "sign-up" 
+5. masukan email kalian beserta passwordnya
+6. beri nama akun github kalian
+7. pilih wilayah kenegaraan
+8. lalu klik create account
+9. nanti github akan meminta kode verifikasi dari email yang di daftarkan 
+10. lalu jika sudah terverifikasi, masukan email dan password akun github kalian yang sebelumnya dibikin
+
+Selesai.
+
+
+maria db
+
+1. buka console kalian
+2. ketik : sudo pacman -S mariadb
+3. jika sudah selesai instalasinya, lanjut ketik : mariadb-install-db --user=mysql --base dir=/usr --datadir=/var/lib/mysql
+4. masukan password sudo kalian 
+5. jika sudah selesai, muali mariadb : sudo systemctl start mariadb
+
+Selesai.

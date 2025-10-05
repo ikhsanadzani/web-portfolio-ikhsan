@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Sweet Home 3D
+MimeType=application/x-wine-extension-sh3p;
+Exec=env "WINEPREFIX=/home/whybukos/.wine" wine start /ProgIDOpen "Sweet Home 3D Plugin" %f
+NoDisplay=true
+StartupNotify=true
+Icon=D77A_SweetHome3D.0
